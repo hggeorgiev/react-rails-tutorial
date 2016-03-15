@@ -1,4 +1,3 @@
 == React-rails tutorial
-
- This is part of a tutorial article about React-rails
-
+This is part of a tutorial article about React-rails
+You can view it here - http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails
