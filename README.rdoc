@@ -1,4 +1,4 @@
 = Rails with React tutorial sample files
  
 This is part of a tutorial article about React-rails on pluralsight:
-=== Building a CRUD interface with React and Ruby on Rails [link:http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails]
+=== {Building a CRUD interface with React and Ruby on Rails}[link:http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails]
