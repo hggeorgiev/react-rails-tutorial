@@ -25,4 +25,4 @@ config/secrets.yml
 bower.json
 # Ignore pow environment settings
 .powenv
-.idea
+.idea/
