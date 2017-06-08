@@ -1,2 +1,2 @@
-class Item < ActiveRecord::Base
+class Item < ApplicationRecord
 end
